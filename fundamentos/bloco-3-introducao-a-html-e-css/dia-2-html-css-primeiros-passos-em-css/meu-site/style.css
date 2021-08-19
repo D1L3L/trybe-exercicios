@@ -1,26 +1,31 @@
 body{
-  text-decoration: none;
   text-align: center;
   font-family:"Comic Sans MS";
   background-image: linear-gradient(to left, rgb(132, 24, 222), rgb(78, 24, 208));}
-.box{
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%,-80%);
+a{
+  text-decoration: none;
+}
+.lista{
+  text-align: left;
+  line-height: 50px;
+}
+h2, p{
+  padding-left: 2%;
+  text-align: left;
 }
 fieldset{
-  target:"_blank";
+  
   border: double 5px rgb(53, 234, 12);
   border-radius: 20px;
-  background-color: rgb(70, 9, 135);
+  background-image: linear-gradient(to left, rgb(78, 24, 208), rgb(132, 24, 222));
 }
 input, select, textarea {
   border-radius: 10px;
 }
 img{
+
   border: 5px rgb(53, 234, 12);
-  border-radius: 10px;
+  border-radius: 50px;
   border-style: double;
 }
 
