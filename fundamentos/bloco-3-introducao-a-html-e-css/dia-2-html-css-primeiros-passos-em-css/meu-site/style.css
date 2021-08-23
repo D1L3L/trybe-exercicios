@@ -1,7 +1,8 @@
 body{
+  color: rgb(53, 234, 12);
   text-align: center;
   font-family:"Comic Sans MS";
-  background-image: linear-gradient(to left, rgb(132, 24, 222), rgb(78, 24, 208));}
+  background-image: linear-gradient(to left, rgb(37, 34, 180), rgb(17, 0, 56));}
 a{
   text-decoration: none;
 }
@@ -17,7 +18,7 @@ fieldset{
   
   border: double 5px rgb(53, 234, 12);
   border-radius: 20px;
-  background-image: linear-gradient(to left, rgb(78, 24, 208), rgb(132, 24, 222));
+  background-image: linear-gradient(to left, rgb(16, 0, 54), rgb(32, 7, 145));
 }
 input, select, textarea {
   border-radius: 10px;
