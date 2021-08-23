@@ -3,6 +3,9 @@ body{
   text-align: center;
   font-family:"Comic Sans MS";
   background-image: linear-gradient(to left, rgb(37, 34, 180), rgb(17, 0, 56));}
+.foto{
+  display: block;
+}
 a{
   text-decoration: none;
 }
